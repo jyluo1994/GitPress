@@ -1,2 +1,2 @@
-[!NOTE]
-This is a NOTE
+> [!NOTE]
+> This is a NOTE
